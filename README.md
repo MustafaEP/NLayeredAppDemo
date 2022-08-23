@@ -1,3 +1,4 @@
 # NLayeredAppDemo
 
-![Ekran görüntüsü 2022-08-23 105214](https://user-images.githubusercontent.com/73031908/186111897-31c6c5a3-a48e-4e17-8469-1e31f0467168.png)
+
+![Ekran görüntüsü 2022-08-23 113304](https://user-images.githubusercontent.com/73031908/186111986-e38dfe72-c2d6-4656-88a6-a72996343fb4.png)
